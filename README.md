@@ -1,7 +1,10 @@
 # Quck React Template (05/06/2018)
 
-This is a personalized template to spin a quick React.js App 
+This is an example in how to mix:
 
-Features:
+- Node.js + Express.js
+- React.js
 
-01-React-Router
+
+---------------------------------------
+by: Edmundo Rubio.
