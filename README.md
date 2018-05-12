@@ -1,4 +1,4 @@
-# Quck React Template (05/06/2018)
+# Full Stack Node => React
 
 This is an example in how to mix:
 
